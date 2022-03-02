@@ -1,0 +1,1 @@
+Website created with the intention to learn how to use Makrdown documentation
